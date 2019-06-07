@@ -1,0 +1,19 @@
+{
+  "name": "sfdc-metadata-git-merge-driver",
+  "version": "1.0.0",
+  "description": "Salesforce Metadata Git merge driver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Not implemented yet\""
+  },
+  "keywords": [
+    "sfdc",
+    "metadata",
+    "git"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.20.0"
+  }
+}
