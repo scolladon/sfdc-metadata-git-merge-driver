@@ -11,6 +11,10 @@
     "metadata",
     "git"
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/scolladon/sfdc-metadata-git-merge-driver"
+  },
   "author": "",
   "license": "MIT",
   "dependencies": {
