@@ -52,7 +52,7 @@ $ smgmd -h
 ## Authors
 
 * **Sebastien Colladon** - *Initial work* - [scolladon](https://github.com/scolladon)
-* **Kevin Gossent** - *Initial work* - [KevinGossentCap](https://github.com/KevinGossentCap)
+* **Kevin Gossent** - *Initial work* - [YohAnim](https://github.com/yohanim)
 
 ## License
 
